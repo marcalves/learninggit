@@ -1,0 +1,30 @@
+h1 {
+  font-size: 40px;
+  font-family: sans-serif;
+  color: white;
+  text-align: center;
+}
+
+input {
+align-items: center;}
+
+h2 {font-family: sans-serif;
+  color: white;
+  text-align: center;
+}
+h3 {font-family: sans-serif;
+  color: white;
+  font-size: 200px;
+  text-align: center;
+  padding: 20px;
+}
+body{
+  text-align: center;
+
+}
+
+.sunny{background-image: url(https://gist.github.com/dm-wyncode/63763f460421122aab6bad7de00b0ac1/raw/d660cd094961bea222d6b2453aca2538f07ef62b/sunny.jpg)}
+
+.rainy{background-image: url(https://gist.github.com/dm-wyncode/63763f460421122aab6bad7de00b0ac1/raw/d660cd094961bea222d6b2453aca2538f07ef62b/rainy.jpg)}
+
+.cloudy{background-image: url(https://gist.github.com/dm-wyncode/63763f460421122aab6bad7de00b0ac1/raw/d660cd094961bea222d6b2453aca2538f07ef62b/cloudy.jpg)}
